@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react-app",
+  "version": "1.0.0",
+  "description": "App that lists SpaceX launch missions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaykumararavindan/graphql-react-app.git"
+  },
+  "author": "Akshay Kumar Aravindan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaykumararavindan/graphql-react-app/issues"
+  },
+  "homepage": "https://github.com/akshaykumararavindan/graphql-react-app#readme"
+}
